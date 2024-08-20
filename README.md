@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey Ladies and Gentlemen 👋
 
-<!--
-**natylliB/natylliB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Billy Tan**.<br>
 
-Here are some ideas to get you started:
+I'm currently trying to build my portofolio in GitHub, trying my best to get into tech world!
+I aspire to be a full-stack web developer, 👀 guidances from kindhearted seniors are super duper appreciated.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As of now, my repos consist of my submissions form the courses I have completed.
+
+If you up for us to get known each other, please follow my [LinkedIn Account](linkedin.com/in/billy-tan-0ba29a7a).
+
+Kinds Regards ♥️
+
+Billy.
