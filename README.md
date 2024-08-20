@@ -14,3 +14,11 @@ If you up for us to get known each other, please follow my [LinkedIn Account](li
 Kinds Regards ♥️
 
 Billy.
+
+## GitHub Statistic
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=natylliB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=natylliB&layout=compact&theme=radical"/>
+</a>
+</p>
