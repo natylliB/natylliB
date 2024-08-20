@@ -1,6 +1,8 @@
-# Hey Ladies and Gentlemen 👋
+# Hey 👋 My name is Billy Tan
 
-My name is **Billy Tan**.<br>
+I'm Indonesian, live in a small Island Batam.
+
+Closest neighboring countries Singapore (45 minutes) and Malaysia (1 hour) ferry rides.
 
 I'm currently trying to build my portofolio in GitHub, trying my best to get into tech world!
 I aspire to be a full-stack web developer, 👀 guidances from kindhearted seniors are super duper appreciated.
